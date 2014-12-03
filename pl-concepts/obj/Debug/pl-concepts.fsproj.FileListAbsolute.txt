@@ -1,0 +1,8 @@
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\bin\Debug\pl_concepts.exe.config
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\bin\Debug\pl_concepts.XML
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\bin\Debug\pl_concepts.exe
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\bin\Debug\pl_concepts.pdb
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\bin\Debug\FSharp.Core.dll
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\bin\Debug\FSharp.Core.xml
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\obj\Debug\pl_concepts.exe
+c:\users\fsharpam\documents\visual studio 2013\Projects\pl-concepts\pl-concepts\obj\Debug\pl_concepts.pdb
